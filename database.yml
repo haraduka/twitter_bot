@@ -1,0 +1,7 @@
+db:
+    test:
+        adapter: sqlite3
+        host: localhost
+        database: test.sqlite3
+        username: unko
+        password: unko
